@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshupriyank04
-- 👀 I’m interested in exploring new things with coding being the most recent one I've dived into...
-- 🌱 I’m currently learning DSA in C++ and also working on MERN tech stack for web development.
+- 👀 I have also done basic HTML CSS and JS 
+- 🌱 I’m currently learning doing DSA and CP in C++ and also learning python for quant finance...
 - 📫 How to reach me ...www.linkedin.com/in/priyanshu-priyank-b16451191
 
 <!---
