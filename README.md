@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshupriyank04&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshupriyank04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshupriyank04" alt="priyanshupriyank04" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/priyanshup1405" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshup1405?logo=twitter&style=for-the-badge" alt="priyanshup1405" /></a> </p>
 
 - 🔭 I’m currently working on [Programming language interpreter in C](https://github.com/priyanshupriyank04/Clox_interpreter)
